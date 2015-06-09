@@ -4,7 +4,7 @@
      "range"        : "(,0.8.0)", 
      "reason"       : "Previous versions didn't work correctly", 
      "from"         : "2015-06-08" 
-   }
+   },
    { "organisation" : "uk.gov.hmrc", 
      "name"         : "sbt-git-versioning", 
      "range"        : "(,0.8.0)", 

@@ -1,7 +1,7 @@
 bobby-config
 ============
 
-This contains the configurations for bobby
+This contains configuration for bobby.
 
 #### Deprecated Dependencies
 
