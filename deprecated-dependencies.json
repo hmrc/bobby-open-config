@@ -16,6 +16,7 @@
    { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
    { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,4.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
    { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
+{ "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,3.5.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
 { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,4.0.0)", "reason" : "Level Of Confidence upgrade", "from" : "2015-11-30" },
 { "organisation" : "uk.gov.hmrc", "name" : "play-authorisation", "range" : "(,3.0.0)", "reason" : "Level Of Confidence upgrade", "from" : "2015-11-30" },
    { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "(,4.3.2)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
