@@ -1,8 +1,8 @@
 [
    { "organisation" : "*", "name" : "*", "range" : "[*-SNAPSHOT]", "reason" : "No snapshot dependencies permitted", "from" : "2015-03-16" },
-   { "organisation" : "uk.gov.hmrc", "name" : "play-frontend", "range" : "[,99.99.99]", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
-   { "organisation" : "uk.gov.hmrc", "name" : "frontend-wiring", "range" : "[,99.99.99]", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
-   { "organisation" : "uk.gov.hmrc", "name" : "play-microservice", "range" : "[,99.99.99]", "reason" : "Post Play Microservice mandatory from 2 Nov", "from" : "2015-11-02" },
+   { "organisation" : "uk.gov.hmrc", "name" : "play-frontend", "range" : "(,99.99.99)", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
+   { "organisation" : "uk.gov.hmrc", "name" : "frontend-wiring", "range" : "(,99.99.99)", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
+   { "organisation" : "uk.gov.hmrc", "name" : "play-microservice", "range" : "(,99.99.99)", "reason" : "Post Play Microservice mandatory from 2 Nov", "from" : "2015-11-02" },
    { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,1.3.0)", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
    { "organisation" : "uk.gov.hmrc", "name" : "play-config", "range" : "(,1.0.0)", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
    { "organisation" : "uk.gov.hmrc", "name" : "play-json-logger", "range" : "(,1.0.0)", "reason" : "Post Play Frontend mandatory from 2 Nov", "from" : "2015-11-02" },
