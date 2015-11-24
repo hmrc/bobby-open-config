@@ -22,5 +22,6 @@
    { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "(,4.3.2)", "reason" : "ReactiveMongo upgrade: https://confluence.tools.tax.service.gov.uk/x/6A_uAw", "from" : "2015-11-30" },
    { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "(,4.2.1)", "reason" : "ReactiveMongo upgrade: https://confluence.tools.tax.service.gov.uk/x/6A_uAw", "from" : "2015-11-30" },
    { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,2.2.1)", "reason" : "ReactiveMongo upgrade: https://confluence.tools.tax.service.gov.uk/x/6A_uAw", "from" : "2015-11-30" },
-   { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.11.5)", "reason" : "ReactiveMongo upgrade: https://confluence.tools.tax.service.gov.uk/x/6A_uAw", "from" : "2015-11-30" }
+   { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.11.5)", "reason" : "ReactiveMongo upgrade: https://confluence.tools.tax.service.gov.uk/x/6A_uAw", "from" : "2015-11-30" },
+   { "organisation" : "uk.gov.hmrc", "name" : "play-auditing", "range" : "[0.3.0]", "reason" : "Release Redacted as not commits ready for mainstream", "from" : "2015-11-24" }
 ]
