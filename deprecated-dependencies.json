@@ -24,13 +24,14 @@
         { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "(,4.2.1)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,2.2.1)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
         { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.11.5)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-auditing", "range" : "(,1.5.1)", "reason" : "SA16 DeviceId and Implicit Auditing upgrade", "from" : "2016-01-18" }
+        { "organisation" : "uk.gov.hmrc", "name" : "play-auditing", "range" : "(,1.5.1)", "reason" : "SA16 DeviceId and Implicit Auditing upgrade", "from" : "2015-01-18" }
     ],
     "plugins":
     [
-        { "organisation" : "uk.gov.hmrc", "name" : "sbt-auto-build", "range" : "(,1.0.0)", "reason" : "", "from" : "2015-12-15" },
-        { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-stamp", "range" : "(,5.1.0)", "reason" : "", "from" : "2015-12-15" },
-        { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-versioning", "range" : "(,0.8.0)", "reason" : "", "from" : "2015-12-15" },
-        { "organisation" : "uk.gov.hmrc", "name" : "sbt-settings", "range" : "(,3.2.0)", "reason" : "", "from" : "2015-12-15" }
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-auto-build", "range" : "(,1.0.0)", "reason" : "Coding In The Open", "from" : "2015-07-01" },
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-stamp", "range" : "(,5.1.0)", "reason" : "Java 8 upgrade", "from" : "2015-11-16" },
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-versioning", "range" : "(,0.8.0)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" },
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-settings", "range" : "(,3.2.0)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" },
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-utils", "range" : "(,99.99.99)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" }
     ]
 }
