@@ -25,9 +25,9 @@
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,2.2.1)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
         { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.11.5)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-auditing", "range" : "(,1.5.1)", "reason" : "SA16 DeviceId and Implicit Auditing upgrade", "from" : "2016-01-18" },
-        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo", "range" : "[0.11.6]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-09" },
-        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-09" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-09" }
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo", "range" : "[0.11.6]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" },
+        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" },
+        { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" }
     ],
     "plugins":
     [
