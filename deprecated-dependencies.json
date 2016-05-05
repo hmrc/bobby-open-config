@@ -14,7 +14,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "[4.0.0,4.3.0]", "reason" : "Device Id cookie creation defective", "from" : "2015-11-01" },
         { "organisation" : "uk.gov.hmrc", "name" : "http-verbs", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "http-caching-client", "range" : "(,5.2.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
-        { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,6.4.0)", "reason" : "Versions older than 6.4.0 have Security Header Filter disabled ", "from" : "2016-05-06"  },
+        { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,6.4.0)", "reason" : "Versions older than 6.4.0 have Security Header Filter disabled ", "from" : "2016-05-13"  },
         { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,4.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,3.5.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
