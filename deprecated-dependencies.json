@@ -5,29 +5,29 @@
         { "organisation" : "uk.gov.hmrc", "name" : "play-frontend", "range" : "(,99.99.99)", "reason" : "Post Play Frontend upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-wiring", "range" : "(,99.99.99)", "reason" : "Post Play Frontend upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-microservice", "range" : "(,99.99.99)", "reason" : "Post Play Microservice upgrade", "from" : "2015-11-02" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,1.3.0)", "reason" : "Post Play Frontend upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-config", "range" : "(,1.0.0)", "reason" : "Post Play Frontend upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-json-logger", "range" : "(,1.0.0)", "reason" : "Post Play Frontend upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-url-binders", "range" : "(,0.3.0)", "reason" : "Post Play Microservice upgrade", "from" : "2015-11-02" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-scheduling", "range" : "(,0.2.0)", "reason" : "Post Play Microservice upgrade", "from" : "2015-11-02" },
-        { "organisation" : "uk.gov.hmrc", "name" : "mongo-caching", "range" : "[0.6.0]", "reason" : "Mongo Caching 0.6.0 defective", "from" : "2015-06-25" },
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "[4.0.0,4.3.0]", "reason" : "Device Id cookie creation defective", "from" : "2015-11-01" },
         { "organisation" : "uk.gov.hmrc", "name" : "http-verbs", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "http-caching-client", "range" : "(,5.2.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
-        { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,6.4.0)", "reason" : "Versions older than 6.4.0 have Security Header Filter disabled ", "from" : "2016-05-13"  },
+        { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,6.4.0)", "reason" : "Versions older than 6.4.0 have Security Header Filter disabled ", "from" : "2016-05-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,3.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,4.0.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,3.5.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,4.0.0)", "reason" : "Level Of Confidence upgrade", "from" : "2015-11-30" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorisation", "range" : "(,3.0.0)", "reason" : "Level Of Confidence upgrade", "from" : "2015-11-30" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "(,4.3.2)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
-        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "(,4.2.1)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
-        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,2.2.1)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
-        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.11.5)", "reason" : "ReactiveMongo upgrade", "from" : "2015-11-30" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-auditing", "range" : "(,1.5.1)", "reason" : "SA16 DeviceId and Implicit Auditing upgrade", "from" : "2016-01-18" },
-        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo", "range" : "[0.11.6]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" },
-        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "[4.7.0]", "reason" : "Mongo connection bug present in this release", "from" : "2016-03-14" }
+        { "organisation" : "uk.gov.hmrc", "name" : "mongo-caching", "range" : "(,3.2.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "(,4.8.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "(,4.8.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,2.3.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-bson", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-bson-macros", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "mongo-lock", "range" : "(,3.3.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-test", "range" : "(,1.6.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,99.99.99)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" }
     ],
     "plugins":
     [
@@ -38,3 +38,5 @@
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-utils", "range" : "(,99.99.99)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" }
     ]
 }
+
+
