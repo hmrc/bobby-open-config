@@ -27,7 +27,8 @@
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-bson-macros", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "mongo-lock", "range" : "(,3.3.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-test", "range" : "(,1.6.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
-        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,99.99.99)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" }
+        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,99.99.99)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "uk.gov.hmrc", "name" : "play-ui", "range" : "(,4.17.2)", "reason" : "Standardising assets config in Frontends", "from" : "2016-11-30" }
     ],
     "plugins":
     [
