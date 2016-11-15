@@ -28,7 +28,12 @@
         { "organisation" : "uk.gov.hmrc", "name" : "mongo-lock", "range" : "(,3.3.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-test", "range" : "(,1.6.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,99.99.99)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-ui", "range" : "(,4.17.2)", "reason" : "Standardising assets config in Frontends", "from" : "2016-11-30" }
+        { "organisation" : "uk.gov.hmrc", "name" : "play-ui", "range" : "(,4.17.2)", "reason" : "Standardising assets config in Frontends", "from" : "2016-11-30" },
+        { "organisation" : "uk.gov.hmrc", "name": "secure", "range": "(,7.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" },
+        { "organisation" : "uk.gov.hmrc", "name": "crypto", "range": "(,4.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" },
+        { "organisation" : "uk.gov.hmrc", "name": "json-encryption", "range": "(,3.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" },
+        { "organisation" : "uk.gov.hmrc", "name": "http-caching-client", "range": "(,6.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" },
+        { "organisation" : "uk.gov.hmrc", "name": "auth-test", "range": "(,3.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" }
     ],
     "plugins":
     [
