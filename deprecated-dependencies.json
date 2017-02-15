@@ -49,7 +49,8 @@
         { "organisation" : "uk.gov.hmrc", "name" : "play-language", "range" : "(,3.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "dynamic-stub", "range" : "(,0.6.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "hmrc-stubs-core", "range" : "(,5.1.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
-        { "organisation" : "uk.gov.hmrc.rehoming", "name" : "java-auth-filter", "range" : "(,5.18.0)", "reason" : "Incompatible with latest user-profile.", "from" : "2017-03-13" }
+        { "organisation" : "uk.gov.hmrc.rehoming", "name" : "java-auth-filter", "range" : "(,5.18.0)", "reason" : "Incompatible with latest user-profile.", "from" : "2017-03-13" },
+        { "organisation" : "uk.gov.hmrc.rehoming", "name" : "java-spring-filters", "range" : "(,5.4.0)", "reason" : "Bug fixes for calling Usher with query params.", "from" : "2017-03-13" }
     ],
     "plugins":
     [
