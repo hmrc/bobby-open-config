@@ -14,6 +14,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "http-caching-client", "range" : "(,5.2.0)", "reason" : "Auditing upgrade", "from" : "2015-11-23" },
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,7.10.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,5.8.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
+        { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,5.11.0)", "reason" : "Added error logging (with stacktrace) for downstream exceptions. A nice-to-have for peak periods", "from" : "2017-12-01" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,5.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,6.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorisation", "range" : "(,4.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-03-13" },
