@@ -26,7 +26,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-bson-macros", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "mongo-lock", "range" : "(,4.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-test", "range" : "(,2.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
-        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,99.99.99)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
+        { "organisation" : "org.reactivemongo", "name" : "reactivemongo", "range" : "(,0.12.6)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-ui", "range" : "(,7.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name": "secure", "range": "(,7.1.0)", "reason": "Security update in bouncy-castle library", "from": "2017-04-01" },
         { "organisation" : "uk.gov.hmrc", "name": "crypto", "range": "(,4.2.0)", "reason": "Play 2.5 upgrade", "from": "2017-04-27" },
