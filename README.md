@@ -1,7 +1,7 @@
-bobby-config
+bobby-open-config
 ============
 
-This contains configuration for bobby.
+This contains configuration for bobby for open repositories
 
 #### Releasing
 Jenkins job must be run in order for these changes to be applied
