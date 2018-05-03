@@ -3,6 +3,9 @@ bobby-config
 
 This contains configuration for bobby.
 
+#### Releasing
+Jenkins job must be run in order for these changes to be applied
+
 #### Deprecated Dependencies
 
 This is a json file containing the list of all the deprecated libraries in MDTP.
