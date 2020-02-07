@@ -54,6 +54,7 @@
     "plugins":
     [
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-auto-build", "range" : "(,1.4.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
+        { "organisation" : "uk.gov.hmrc", "name" : "sbt-auto-build", "range" : "[2.3.0,2.4.0]", "reason" : "These versions can have some dependency resolution issues in IntelliJ", "from" : "2020-02-14" },
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-stamp", "range" : "(,5.1.0)", "reason" : "Java 8 upgrade", "from" : "2015-11-16" },
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-git-versioning", "range" : "(,0.9.0)", "reason" : "Play 2.5 Upgrade", "from" : "2015-11-16" },
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-settings", "range" : "(,3.2.0)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" },
