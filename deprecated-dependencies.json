@@ -59,6 +59,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-settings", "range" : "(,3.2.0)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" },
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-utils", "range" : "(,99.99.99)", "reason" : "Java 8 Upgrade", "from" : "2015-11-16" },
         { "organisation" : "uk.gov.hmrc", "name" : "sbt-distributables", "range" : "(,1.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
+        { "organisation" : "uk.gov.hmrc", "name" : "emailaddress", "range" : "(,3.3.0)", "reason" : "Bug in email address validation.", "from" : "2021-02-01" },
         { "organisation" : "com.typesafe.play", "name" : "sbt-plugin", "range" : "(,2.5.8)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" }
     ]
 }
