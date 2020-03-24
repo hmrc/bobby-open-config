@@ -20,6 +20,12 @@
         { "organisation" : "uk.gov.hmrc", "name" : "mongo-caching", "range" : "(,3.2.0)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-reactivemongo", "range" : "(,5.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "(,5.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
+        { "organisation" : "uk.gov.hmrc", "name" : "simple-reactivemongo", "range" : "[7.24.0,7.25.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
+        { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-test", "range" : "[4.17.0,4.18.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
+        { "organisation" : "uk.gov.hmrc", "name" : "mongo-lock", "range" : "[6.19.0,6.20.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
+        { "organisation" : "uk.gov.hmrc", "name" : "metrix", "range" : "[4.2.0,4.3.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
+        { "organisation" : "uk.gov.hmrc", "name" : "mongo-caching", "range" : "[6.9.0,6.10.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
+        { "organisation" : "uk.gov.hmrc", "name" : "work-item-repo", "range" : "[7.1.0, 7.2.0]", "reason" : "Uses ReactiveMongo [0.19.x+] which has breaking changes in how long values are represented in json, requiring a major release", "from" : "2020-03-31" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-json", "range" : "(,3.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2016-08-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
         { "organisation" : "uk.gov.hmrc", "name" : "reactivemongo-bson", "range" : "(,0.11.8)", "reason" : "ReactiveMongo for Zombie Connections upgrade", "from" : "2016-08-08" },
@@ -63,5 +69,3 @@
         { "organisation" : "com.typesafe.play", "name" : "sbt-plugin", "range" : "(,2.5.8)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" }
     ]
 }
-
-
