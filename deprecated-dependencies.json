@@ -13,6 +13,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,8.22.0)", "reason" : "Bug in Metrics Reporting", "from" : "2018-07-15" },
         { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,6.18.0)", "reason" : "Bug in Metrics Reporting", "from" : "2018-07-15" },
         { "organisation" : "uk.gov.hmrc", "name" : "bootstrap-play-25", "range" : "(,1.6.0)", "reason" : "Bug in Metrics Reporting", "from" : "2018-07-15" },
+        { "organisation" : "uk.gov.hmrc", "name" : "cookie-banner-play-27", "range" : "[0.5.0,0.6.0]", "reason" : "Play 2.7 version brings uses incorrect Play 2.6 dependencies", "from" : "2020-05-31" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-partials", "range" : "(,5.3.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorised-frontend", "range" : "(,6.3.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-authorisation", "range" : "(,4.3.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
