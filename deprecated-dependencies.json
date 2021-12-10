@@ -58,7 +58,6 @@
         { "organisation" : "uk.gov.hmrc", "name" : "emailaddress", "range" : "(,3.4.0)", "reason" : "Bug in email address validation.", "from" : "2021-02-01" },
         { "organisation" : "uk.gov.hmrc.rehoming", "name" : "java-auth-filter", "range" : "(,5.18.0)", "reason" : "Incompatible with latest user-profile.", "from" : "2017-03-13" },
         { "organisation" : "org.apache.logging.log4j", "name" : "log4j-core", "range" : "(,2.15.0)", "reason" : "Vulnerable to remote code execution.", "from" : "2021-12-10" }
-     ],
     ],
     "plugins":
     [
