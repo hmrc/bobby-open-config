@@ -53,7 +53,7 @@
         { "organisation" : "uk.gov.hmrc", "name" : "cluster-work-throttling", "range" : "(,4.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-sso", "range" : "(,3.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-language", "range" : "(,3.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
-        { "organisation" : "uk.gov.hmrc", "name" : "dynamic-stub", "range" : "(,0.6.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
+        { "organisation" : "uk.gov.hmrc", "name" : "dynamic-stub", "range" : "(,99.99.999]", "reason" : "Decommission", "from" : "2023-12-18" },
         { "organisation" : "uk.gov.hmrc", "name" : "hmrc-stubs-core", "range" : "(,5.1.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "emailaddress", "range" : "(,3.4.0)", "reason" : "Bug in email address validation.", "from" : "2021-02-01" },
         { "organisation" : "uk.gov.hmrc.rehoming", "name" : "java-auth-filter", "range" : "(,5.18.0)", "reason" : "Incompatible with latest user-profile.", "from" : "2017-03-13" },
