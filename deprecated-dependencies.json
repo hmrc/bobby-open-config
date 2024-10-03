@@ -8,7 +8,6 @@
         { "organisation" : "uk.gov.hmrc", "name" : "play-config", "range" : "(,4.2.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-json-logger", "range" : "(,99.99.99)", "reason" : "Use logback-json-logger v.3.1.0 following Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "play-url-binders", "range" : "(,2.1.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
-        { "organisation" : "uk.gov.hmrc", "name" : "play-scheduling", "range" : "(,4.0.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "http-verbs", "range" : "(,6.3.0)", "reason" : "Play 2.5 upgrade", "from" : "2017-04-27" },
         { "organisation" : "uk.gov.hmrc", "name" : "frontend-bootstrap", "range" : "(,8.22.0)", "reason" : "Bug in Metrics Reporting", "from" : "2018-07-15" },
         { "organisation" : "uk.gov.hmrc", "name" : "microservice-bootstrap", "range" : "(,6.18.0)", "reason" : "Bug in Metrics Reporting", "from" : "2018-07-15" },
